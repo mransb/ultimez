@@ -1,0 +1,9 @@
+.container {
+  background-color: #001941;
+  height: 100vh;
+}
+.login-card {
+  background-color: #08295e;
+  color: white;
+  margin-top: 15%;
+}
